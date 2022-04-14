@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1649940251403,265,Login/login-80,200,OK,Login Scenario 2-1,text,true,,690,497,5,34,https://api.demoblaze.com/login,263,0,0
+1649940251585,414,Login/login-80,200,OK,Login Scenario 2-2,text,true,,461,495,4,28,https://api.demoblaze.com/login,411,0,0
+1649940251787,379,Login/login-80,200,OK,Login Scenario 2-3,text,true,,664,491,3,26,https://api.demoblaze.com/login,378,0,0
+1649940251986,381,Login/login-80,200,OK,Login Scenario 2-4,text,true,,487,491,2,19,https://api.demoblaze.com/login,381,0,0
+1649940252269,455,Login/login-80,200,OK,Login Scenario 2-5,text,true,,533,493,1,11,https://api.demoblaze.com/login,454,0,0

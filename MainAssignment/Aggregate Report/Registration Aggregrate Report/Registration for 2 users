@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1649939182411,263,Registration/signup-78,200,OK,Registration Scenario 1-1,text,true,,667,501,1,31,https://api.demoblaze.com/signup,261,0,0
+1649939184821,272,Registration/signup-78,200,OK,Registration Scenario 1-2,text,true,,674,501,1,2,https://api.demoblaze.com/signup,269,0,0

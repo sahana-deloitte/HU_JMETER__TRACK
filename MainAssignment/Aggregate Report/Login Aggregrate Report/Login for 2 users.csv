@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1649940194452,328,Login/login-80,200,OK,Login Scenario 2-1,text,true,,529,497,2,30,https://api.demoblaze.com/login,325,0,0
+1649940194769,399,Login/login-80,200,OK,Login Scenario 2-2,text,true,,478,495,1,21,https://api.demoblaze.com/login,399,0,0
